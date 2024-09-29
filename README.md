@@ -1,8 +1,3 @@
-😎 A software engineer passionate in building products that are pleasant to use.
-
-💻 Check out my side projects where I build everyday life web applications such as e-commerce or messaging applications with pleasant UI using ReactJS.
-
-📝 I also contribute to open source occasionally for learning.
 
 ### Open source contributions
 
